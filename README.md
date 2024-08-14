@@ -45,14 +45,14 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="60%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravishka22&theme=gotham&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishka22&theme=gotham&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka22&theme=gotham">
