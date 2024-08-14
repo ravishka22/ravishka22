@@ -32,7 +32,12 @@
 </div>
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=ravishka22&icon=3&color=3)](https://visitcount.itsvg.in)
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/ravishka22/count.svg"/>
+  </div> 
+</p>
   
 </div>
 <!--- stats & Trophy (start) -->
@@ -42,14 +47,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravishka22&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravishka22&theme=gotham&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishka22&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishka22&theme=gotham&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravishka22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravishka22&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
