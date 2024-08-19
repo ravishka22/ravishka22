@@ -128,5 +128,5 @@
   </ul>
 </div>
 <p align="center">
-	<a href="https://www.buymeacoffee.com/ravishkabhK" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1000/1*SwTL_rTSTDjHClc2uuoB2w.gif" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+	<a href="https://www.buymeacoffee.com/ravishka22" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1000/1*SwTL_rTSTDjHClc2uuoB2w.gif" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
