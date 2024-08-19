@@ -6,7 +6,7 @@
 	Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="#" target="blank">Ravishka Bhashitha</a>
 </h1>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Softwear+Engineering+Student;Full-Stack+Developer;Entrepreneur;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;Entrepreneur;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <p align="center">
 	<img src="https://img.shields.io/badge/Age-21-blue" />
