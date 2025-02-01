@@ -47,9 +47,9 @@
 <tr border="none">
 <td width="60%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravishka22&theme=gotham&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=&theme=gotham&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="Ravishka's streak" alt="Ravishka streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishka22&theme=gotham&hide_border=false" /> 
+  <img  title="Ravishka's streak" alt="Ravishka streak" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=gotham&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
