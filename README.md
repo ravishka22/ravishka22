@@ -55,7 +55,8 @@
 <td width="40%" align="center">
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka22&theme=gotham&layout=donut-vertical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka22&layout=pie&theme=gotham">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </td>
