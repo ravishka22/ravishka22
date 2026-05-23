@@ -9,7 +9,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;Entrepreneur;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <p align="center">
-	<img src="https://img.shields.io/badge/Age-22-blue" />
+	<img src="https://img.shields.io/badge/Age-23-blue" />
 	<!--   <img src="https://img.shields.io/badge/Focus-Softwear%20Engineering-brightgreen" /> -->
   	<img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   	<img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
