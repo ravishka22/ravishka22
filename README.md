@@ -31,11 +31,16 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,mysql,bootstrap,tailwind&perline=14" />
-  </a>
+	<img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
+	<img src="https://skillicons.dev/icons?i=figma,ps"/> 
+	<img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
+	<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery"/>
+	<img src="https://skillicons.dev/icons?i=super,java,hibernate,regex,mysql,postman,spring,flask,mysql,mongodb,prisma"/> 
+	<img src="https://skillicons.dev/icons?i=github,git,autocad,maven,ai,firebase"/>  
+	<img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter"/>
 </p>
 
 <br>
@@ -45,15 +50,13 @@
 
 ---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ravishka-bhashitha/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/ravishka.bhashitha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="facebook" height="50" width="50" /></a> 
