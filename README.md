@@ -9,8 +9,6 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=24&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;Entrepreneur;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
-<!-- <img src="./github_readme.svg" alt="Neofetch card" /> -->
-<img src="https://raw.githubusercontent.com/ravishka22/ravishka22/main/github_readme.svg" alt="Neofetch card" />
 <p align="center">
 	<img src="https://img.shields.io/badge/Age-23-blue" />
 	<!--   <img src="https://img.shields.io/badge/Focus-Softwear%20Engineering-brightgreen" /> -->
@@ -22,7 +20,7 @@
 	<br>
 	Let’s connect and collaborate on innovative projects!
 </p>
-
+<img src="https://raw.githubusercontent.com/ravishka22/ravishka22/main/github_readme.svg" alt="Neofetch card" />
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
