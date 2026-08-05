@@ -40,7 +40,10 @@
   </a>
 </p>
 
-<br/>
+<br>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ravishka22" alt="GitHub Insights" />
+</p>
 
 ---
 
